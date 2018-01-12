@@ -178,3 +178,5 @@ def main(args=None):
 
 if __name__ == '__main__':
   df = main()
+
+sys.path.append(/coinmarketcap-history-master)
